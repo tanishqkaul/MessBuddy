@@ -8,7 +8,9 @@ Before running the application, make sure you have the following prerequisites i
 
 - Node.js: [Download and install Node.js](https://nodejs.org)
 - Expo CLI: Install the Expo CLI globally by running the following command:
-'npm install -g expo-cli'
+<kbd style="border-radius: 9999px; padding: 4px 8px; background-color: #EDEDED; font-family: monospace;">
+npm install -g expo-cli
+</kbd>
 
 
 ## Getting Started
