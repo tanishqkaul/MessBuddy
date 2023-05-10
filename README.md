@@ -18,4 +18,4 @@ npm install -g expo-cli
 To get started with the application, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
-()
+(https://github.com/rishi-sangare/MessBuddy.git)
