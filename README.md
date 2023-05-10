@@ -8,7 +8,7 @@ Before running the application, make sure you have the following prerequisites i
 
 - Node.js: [Download and install Node.js](https://nodejs.org)
 - Expo CLI: Install the Expo CLI globally by running the following command:
-<kbd style="border-radius: 9999px; padding: 4px 8px; background-color: #EDEDED; font-family: monospace;">
+<kbd style="border-radius: 9999px; padding: 4px 10px; background-color: #EDEDED; font-family: monospace;">
 npm install -g expo-cli
 </kbd>
 
@@ -19,3 +19,10 @@ To get started with the application, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 (https://github.com/rishi-sangare/MessBuddy.git)
+
+
+2. Navigate to the project directory:
+<kbd style="border-radius: 9999px; padding: 4px 10px; background-color: #EDEDED; font-family: monospace;">
+cd your-repo
+</kbd>
+
